@@ -83055,7 +83055,7 @@ $.ajJ=null
 $.a9_=null
 $.mW=A.bR(["MOBILE","WEB"],t.N)
 $.jd=function(){var s=t.N
-return A.ah(["Dankoff uat","https://uat.apis.dankoff.yellowrock.io/","Dankoff production","https://apis.dankoff.yellowrock.io/","Hermelin uat","https://uat.apis.hermelin.yellowrock.io/","Hillewaert-NL uat","https://apis.uat.hillewaert-nl.yellowrock.io/","Hillewaert-NL production","https://apis.hillewaert-nl.yellowrock.io/","Hillewaert-BE uat","https://apis.uat.hillewaert-be.yellowrock.io/","Hillewaert-BE production","https://apis.hillewaert-be.yellowrock.io/","Verdi-Uat","https://uat.verdi.api.dobby.io/"],s,s)}()})();(function lazyInitializers(){var s=hunkHelpers.lazyFinal,r=hunkHelpers.lazy
+return A.ah(["Dankoff uat","https://uat.apis.dankoff.yellowrock.io/","Dankoff production","https://apis.dankoff.yellowrock.io/","Hermelin uat","https://uat.apis.hermelin.yellowrock.io/","Hillewaert-NL uat","https://apis.uat.hillewaert-nl.yellowrock.io/","Hillewaert-NL production","https://apis.hillewaert-nl.yellowrock.io/","Hillewaert-BE uat","https://apis.uat.hillewaert-be.yellowrock.io/","Hillewaert-BE production","https://apis.hillewaert-be.yellowrock.io/","Verdi-Uat","https://uat.verdi.api.dobby.io/","Selecta-Uat","https://uat.selecta.dobby.io/"],s,s)}()})();(function lazyInitializers(){var s=hunkHelpers.lazyFinal,r=hunkHelpers.lazy
 s($,"aLP","kx",()=>A.y(A.y(A.a5(),"ClipOp"),"Intersect"))
 s($,"aMC","ax6",()=>{var q="FontWeight"
 return A.b([A.y(A.y(A.a5(),q),"Thin"),A.y(A.y(A.a5(),q),"ExtraLight"),A.y(A.y(A.a5(),q),"Light"),A.y(A.y(A.a5(),q),"Normal"),A.y(A.y(A.a5(),q),"Medium"),A.y(A.y(A.a5(),q),"SemiBold"),A.y(A.y(A.a5(),q),"Bold"),A.y(A.y(A.a5(),q),"ExtraBold"),A.y(A.y(A.a5(),q),"ExtraBlack")],t.O)})
